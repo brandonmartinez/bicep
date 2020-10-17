@@ -1,5 +1,23 @@
 [
   {
+    "label": "'AzureCLI'",
+    "kind": "enumMember",
+    "detail": "'AzureCLI'",
+    "deprecated": false,
+    "preselect": false,
+    "insertText": "'AzureCLI'",
+    "insertTextFormat": "plainText"
+  },
+  {
+    "label": "'AzurePowerShell'",
+    "kind": "enumMember",
+    "detail": "'AzurePowerShell'",
+    "deprecated": false,
+    "preselect": false,
+    "insertText": "'AzurePowerShell'",
+    "insertTextFormat": "plainText"
+  },
+  {
     "label": "add",
     "kind": "function",
     "detail": "add",
@@ -33,24 +51,6 @@
     "deprecated": false,
     "preselect": false,
     "insertText": "array",
-    "insertTextFormat": "plainText"
-  },
-  {
-    "label": "'AzureCLI'",
-    "kind": "enumMember",
-    "detail": "'AzureCLI'",
-    "deprecated": false,
-    "preselect": false,
-    "insertText": "'AzureCLI'",
-    "insertTextFormat": "plainText"
-  },
-  {
-    "label": "'AzurePowerShell'",
-    "kind": "enumMember",
-    "detail": "'AzurePowerShell'",
-    "deprecated": false,
-    "preselect": false,
-    "insertText": "'AzurePowerShell'",
     "insertTextFormat": "plainText"
   },
   {

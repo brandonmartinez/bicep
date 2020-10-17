@@ -1,14 +1,5 @@
 [
   {
-    "label": "{}",
-    "kind": "value",
-    "detail": "{}",
-    "deprecated": false,
-    "preselect": false,
-    "insertText": "{$0}",
-    "insertTextFormat": "snippet"
-  },
-  {
     "label": "add",
     "kind": "function",
     "detail": "add",
@@ -835,5 +826,14 @@
     "preselect": false,
     "insertText": "utcNow",
     "insertTextFormat": "plainText"
+  },
+  {
+    "label": "{}",
+    "kind": "value",
+    "detail": "{}",
+    "deprecated": false,
+    "preselect": false,
+    "insertText": "{$0}",
+    "insertTextFormat": "snippet"
   }
 ]

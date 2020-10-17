@@ -1,5 +1,41 @@
 [
   {
+    "label": "'one'",
+    "kind": "enumMember",
+    "detail": "'one'",
+    "deprecated": false,
+    "preselect": false,
+    "insertText": "'one'",
+    "insertTextFormat": "plainText"
+  },
+  {
+    "label": "'three'",
+    "kind": "enumMember",
+    "detail": "'three'",
+    "deprecated": false,
+    "preselect": false,
+    "insertText": "'three'",
+    "insertTextFormat": "plainText"
+  },
+  {
+    "label": "'two'",
+    "kind": "enumMember",
+    "detail": "'two'",
+    "deprecated": false,
+    "preselect": false,
+    "insertText": "'two'",
+    "insertTextFormat": "plainText"
+  },
+  {
+    "label": "WhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLong",
+    "kind": "field",
+    "detail": "WhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLong",
+    "deprecated": false,
+    "preselect": false,
+    "insertText": "WhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLong",
+    "insertTextFormat": "plainText"
+  },
+  {
     "label": "add",
     "kind": "function",
     "detail": "add",
@@ -306,21 +342,21 @@
     "insertTextFormat": "plainText"
   },
   {
-    "label": "intersection",
-    "kind": "function",
-    "detail": "intersection",
-    "deprecated": false,
-    "preselect": false,
-    "insertText": "intersection",
-    "insertTextFormat": "plainText"
-  },
-  {
     "label": "intModifierCompletions",
     "kind": "field",
     "detail": "intModifierCompletions",
     "deprecated": false,
     "preselect": false,
     "insertText": "intModifierCompletions",
+    "insertTextFormat": "plainText"
+  },
+  {
+    "label": "intersection",
+    "kind": "function",
+    "detail": "intersection",
+    "deprecated": false,
+    "preselect": false,
+    "insertText": "intersection",
     "insertTextFormat": "plainText"
   },
   {
@@ -540,15 +576,6 @@
     "insertTextFormat": "plainText"
   },
   {
-    "label": "not",
-    "kind": "function",
-    "detail": "not",
-    "deprecated": false,
-    "preselect": false,
-    "insertText": "not",
-    "insertTextFormat": "plainText"
-  },
-  {
     "label": "noValueAfterColon",
     "kind": "field",
     "detail": "noValueAfterColon",
@@ -558,12 +585,12 @@
     "insertTextFormat": "plainText"
   },
   {
-    "label": "'one'",
-    "kind": "enumMember",
-    "detail": "'one'",
+    "label": "not",
+    "kind": "function",
+    "detail": "not",
     "deprecated": false,
     "preselect": false,
-    "insertText": "'one'",
+    "insertText": "not",
     "insertTextFormat": "plainText"
   },
   {
@@ -954,15 +981,6 @@
     "insertTextFormat": "plainText"
   },
   {
-    "label": "'three'",
-    "kind": "enumMember",
-    "detail": "'three'",
-    "deprecated": false,
-    "preselect": false,
-    "insertText": "'three'",
-    "insertTextFormat": "plainText"
-  },
-  {
     "label": "toLower",
     "kind": "function",
     "detail": "toLower",
@@ -987,15 +1005,6 @@
     "deprecated": false,
     "preselect": false,
     "insertText": "trim",
-    "insertTextFormat": "plainText"
-  },
-  {
-    "label": "'two'",
-    "kind": "enumMember",
-    "detail": "'two'",
-    "deprecated": false,
-    "preselect": false,
-    "insertText": "'two'",
     "insertTextFormat": "plainText"
   },
   {
@@ -1050,15 +1059,6 @@
     "deprecated": false,
     "preselect": false,
     "insertText": "utcNow",
-    "insertTextFormat": "plainText"
-  },
-  {
-    "label": "WhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLong",
-    "kind": "field",
-    "detail": "WhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLong",
-    "deprecated": false,
-    "preselect": false,
-    "insertText": "WhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLongWhySoLong",
     "insertTextFormat": "plainText"
   },
   {

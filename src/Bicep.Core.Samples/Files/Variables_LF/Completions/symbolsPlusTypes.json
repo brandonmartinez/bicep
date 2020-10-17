@@ -9,15 +9,6 @@
     "insertTextFormat": "plainText"
   },
   {
-    "label": "__",
-    "kind": "variable",
-    "detail": "__",
-    "deprecated": false,
-    "preselect": false,
-    "insertText": "__",
-    "insertTextFormat": "plainText"
-  },
-  {
     "label": "_0a_1b",
     "kind": "variable",
     "detail": "_0a_1b",
@@ -33,6 +24,15 @@
     "deprecated": false,
     "preselect": false,
     "insertText": "_1_",
+    "insertTextFormat": "plainText"
+  },
+  {
+    "label": "__",
+    "kind": "variable",
+    "detail": "__",
+    "deprecated": false,
+    "preselect": false,
+    "insertText": "__",
     "insertTextFormat": "plainText"
   },
   {
@@ -414,6 +414,15 @@
     "insertTextFormat": "plainText"
   },
   {
+    "label": "intIndexer",
+    "kind": "variable",
+    "detail": "intIndexer",
+    "deprecated": false,
+    "preselect": false,
+    "insertText": "intIndexer",
+    "insertTextFormat": "plainText"
+  },
+  {
     "label": "interp1",
     "kind": "variable",
     "detail": "interp1",
@@ -465,15 +474,6 @@
     "deprecated": false,
     "preselect": false,
     "insertText": "intersection",
-    "insertTextFormat": "plainText"
-  },
-  {
-    "label": "intIndexer",
-    "kind": "variable",
-    "detail": "intIndexer",
-    "deprecated": false,
-    "preselect": false,
-    "insertText": "intIndexer",
     "insertTextFormat": "plainText"
   },
   {
